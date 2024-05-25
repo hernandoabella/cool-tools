@@ -20,5 +20,5 @@
 #### For fun:
 | Project Name | Description | Live |
 |--------------|-------------|------|
-| CodingRomeo | Date a programmer girl or man with these quotes | |
-| Tech Motivator | Daily Tech Quotes to motivate you to write code | |
+| 💏 Love Coding Quote | Date a programmer girl or man with these quotes | |
+| 💯 Tech Motivator | Daily Tech Quotes to motivate you to write code | |

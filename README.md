@@ -13,10 +13,11 @@
 #### Collections:
 | Project Name | Description | Live |
 |--------------|-------------|------|
-| [JS-APPS](https://github.com/hernandoabella/js-apps) | Mega app collection to practice JavaScript code | |
-| [ASTERISK](https://github.com/hernandoabella/asterisk) | Mega pattern program collection | |
+| [JS-APPS](https://github.com/hernandoabella/js-apps) | App collection to practice JavaScript code | |
+| [ASTERISK](https://github.com/hernandoabella/asterisk) | Pattern program collection | |
 | Killer-One-Liners |  | |
-| KeyW0rds | | |
+| Keywords | | |
+| Coding Recipes | | |
 #### For fun:
 | Project Name | Description | Live |
 |--------------|-------------|------|

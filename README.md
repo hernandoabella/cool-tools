@@ -1,4 +1,5 @@
 # Side projects 🏗️
+Side projects allow you to experience and learn new things that your daily work might not. They help you learn new techniques or, through deliberate practice, improve your current skills. They encourage your creativity. Side projects allow you to work without any constraints.
 
 ## Resources:  
 | Project Name | Description | Demo |

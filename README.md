@@ -16,10 +16,10 @@ Side projects allow you to experience and learn new things that your daily work 
 ## Collections:
 | Project Name | Description | Demo |
 |--------------|-------------|------|
-| [JS-APPS](https://github.com/hernandoabella/js-apps) | App collection to practice JavaScript code | ... |
+| [JS-APPS](https://github.com/hernandoabella/js-apps) | App collection to practice JavaScript code | [https://js-apps-three.vercel.app/](https://js-apps-three.vercel.app/) |
 | [ASTERISK](https://github.com/hernandoabella/asterisk) | Pattern program collection | ... |
 | [Killer-One-Liners](https://github.com/hernandoabella/killer-one-liners) | Killer One Liner Functions Collections | ... |
-| [Key-Words](https://github.com/hernandoabella/keywords) | Program language Keyboards | ... |
+| [Keywords](https://github.com/hernandoabella/keywords) | Program language Keyboards | ... |
 | [Coding Recipes](https://github.com/hernandoabella/coding-recipes) | The best coding recipes collection | ... |
 ## For fun:
 | Project Name | Description | Demo |

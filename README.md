@@ -18,6 +18,7 @@ Side projects allow you to experience and learn new things that your daily work 
 |--------------|-------------|------|
 | [JS-APPS](https://github.com/hernandoabella/js-apps) | App collection to practice JavaScript code | [https://js-apps-three.vercel.app/](https://js-apps-three.vercel.app/) |
 | [ASTERISK](https://github.com/hernandoabella/asterisk) | Pattern program collection | ... |
+| [Programs4Beginners](https://github.com/hernandoabella/programs-for-beginners) | ... | ... |
 | [Killer-One-Liners](https://github.com/hernandoabella/killer-one-liners) | Killer One Liner Functions Collections | ... |
 | [Keywords](https://github.com/hernandoabella/keywords) | Program language Keyboards | ... |
 | [Coding Recipes](https://github.com/hernandoabella/coding-recipes) | The best coding recipes collection | ... |

@@ -10,7 +10,7 @@ Side projects allow you to experience and learn new things that your daily work 
 |--------------|-------------|------|
 | GitHub Card Generator |||
 | [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator) | Create stunning cards testimonials for your products. | []() |
-| [Delete duplicate emails](https://github.com/hernandoabella/testimonial-card-generator) | Delete a list of duplicate emails. | []() |
+| [WebToolKit](https://github.com/hernandoabella/webtoolkit) | A versatile suite of essential tools | []() |
 | [🪄 Fancy Code Lines](https://github.com/hernandoabella/fancy-code-lines) | Convert your snippet into a fancy illustration. | [ https://fancy-code-lines.vercel.app/ ](https://fancy-code-lines.vercel.app/) |
 | [🥳 Follower Party ](https://github.com/hernandoabella/follower-party) | Celebrate your social influence! | [https://follower-party.vercel.app/](https://follower-party.vercel.app/) |
 ## Collections:

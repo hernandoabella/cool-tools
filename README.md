@@ -18,8 +18,8 @@ Side projects allow you to experience and learn new things that your daily work 
 |--------------|-------------|------|
 | [📱 JS-APPS](https://github.com/hernandoabella/js-apps) | App collection to practice JavaScript code | [https://js-apps-three.vercel.app/](https://js-apps-three.vercel.app/) |
 | [✳️ ASTERISK](https://github.com/hernandoabella/asterisk) | Pattern program collection | [asterisk-lemon.vercel.app](asterisk-lemon.vercel.app) |
-| [🖥️ Programs4Beginners](https://github.com/hernandoabella/programs4beginners) | ... | ... |
-| [🔫 Killer-One-Liners](https://github.com/hernandoabella/killer-one-liners) | Killer One Liner Functions Collections | ... |
+| [🖥️ Programs4Beginners](https://github.com/hernandoabella/programs4beginners) | program collection | [programs4beginners.vercel.app](programs4beginners.vercel.app) |
+| [🔫 Killer-One-Liners](https://github.com/hernandoabella/killer-one-liners) | One Liner Function Collection | [killer-one-liners.vercel.app](killer-one-liners.vercel.app) |
 | [🗝️ Keywords](https://github.com/hernandoabella/keywords) | Program language Keyboards | ... |
 | [🧑‍🍳 Coding Recipes](https://github.com/hernandoabella/coding-recipes) | The best coding recipes collection | ... |
 ## For fun:

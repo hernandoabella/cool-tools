@@ -21,7 +21,7 @@ Side projects allow you to experience and learn new things that your daily work 
 | [🖥️ Programs4Beginners](https://github.com/hernandoabella/programs4beginners) | program collection | [programs4beginners.vercel.app](programs4beginners.vercel.app) |
 | [🔫 Killer-One-Liners](https://github.com/hernandoabella/killer-one-liners) | One Liner Function Collection | [killer-one-liners.vercel.app](killer-one-liners.vercel.app) |
 | [🗝️ Keywords](https://github.com/hernandoabella/keywords) | Program language Keyboards | [keywords-seven.vercel.app](keywords-seven.vercel.app) |
-| [🧑‍🍳 Coding Recipes](https://github.com/hernandoabella/coding-recipes) | The best coding recipes collection | ... |
+| [🧑‍🍳 Coding Recipes](https://github.com/hernandoabella/coding-recipes) | The best coding recipes collection | [coding-recipes.vercel.app](coding-recipes.vercel.app) |
 ## For fun:
 | Project Name | Description | Live |
 |--------------|-------------|------|

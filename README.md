@@ -8,7 +8,7 @@ Side projects allow you to experience and learn new things that your daily work 
 ## Tools:
 | Project Name | Description | Demo |
 |--------------|-------------|------|
-| [🐱 GitHub Card Generator](https://github.com/hernandoabella/github-card-generator)  | Create a fancy Github card |  |
+| [🐱 GitHub Card Generator](https://github.com/hernandoabella/github-card-generator)  | Create a fancy Github card | [https://github-card-generator-flame.vercel.app/](https://github-card-generator-flame.vercel.app/) |
 | [🗣️ Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator) | Create stunning cards testimonials for your products. | []() |
 | [🧰 WebToolKit](https://github.com/hernandoabella/webtoolkit) | A versatile suite of essential tools | []() |
 | [🪄 Fancy Code Lines](https://github.com/hernandoabella/fancy-code-lines) | Convert your snippet into a fancy illustration. | [ https://fancy-code-lines.vercel.app/ ](https://fancy-code-lines.vercel.app/) |

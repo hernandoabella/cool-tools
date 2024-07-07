@@ -25,5 +25,5 @@ Side projects allow you to experience and learn new things that your daily work 
 ## For fun:
 | Project Name | Description | Live |
 |--------------|-------------|------|
-| [💏 Coding Flirt](https://github.com/hernandoabella/coding-flirt) | Make a programmer fall in love with these love phrases | ... |
+| [💏 Coding Flirt](https://github.com/hernandoabella/coding-flirt) | Make a programmer fall in love with these love phrases | [tech-motivator.vercel.app](tech-motivator.vercel.app) |
 | [💯 Tech Motivator](https://github.com/hernandoabella/tech-motivator) | Daily Tech Quotes to motivate you to write code | ... |

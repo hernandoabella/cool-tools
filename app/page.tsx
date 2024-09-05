@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 
-const initialSlides = ["Project 1", "2", "3"];
+const initialSlides = ["Project 3", "Project 1", "Project 2"];
 const maxVisibleSlides = 3;
 
 export default function Home() {
@@ -53,11 +53,11 @@ export default function Home() {
               animate={{
                 opacity: 1,
                 y: 0,
-                scale: index === 1 ? 1.1 : 1, // Escala aumentada para el elemento activo
+                scale: index === 1 ? 1.1 : 1, 
               }}
               exit={{ opacity: 0, y: -20 }}
-              transition={{ duration: 0.3, type: "tween" }} // Añadido tipo de transición tween
-              layout // Activar la propiedad layout para gestionar la transición
+              transition={{ duration: 0.3, type: "tween" }}
+              layout 
               className={` w-48 h-48 flex items-center justify-center transition-opacity duration-300 ${
                 index === 1
                   ? "animated opacity-100 bg-blue-500"

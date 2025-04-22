@@ -1,5 +1,4 @@
 # Cool Tools 🏗️
-Get inspired by these tools I've made:
 
 ## Tools:
 | Project Name | Description | Live |

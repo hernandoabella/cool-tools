@@ -13,11 +13,16 @@
 | Project Name | Description | Live |
 |--------------|-------------|------|
 | [📱 JS-APPS](https://github.com/hernandoabella/js-apps) | App collection to practice JavaScript code | [https://js-apps-three.vercel.app/](https://js-apps-three.vercel.app/) |
+| [✳️ ASTERISK](https://github.com/hernandoabella/asterisk) | Pattern program collection | [asterisk-lemon.vercel.app](asterisk-lemon.vercel.app) |
+| [🖥️ Programs4Beginners](https://github.com/hernandoabella/programs4beginners) | program collection | [programs4beginners.vercel.app](programs4beginners.vercel.app) |
+| [🔫 Killer-One-Liners](https://github.com/hernandoabella/killer-one-liners) | One Liner Function Collection | [killer-one-liners.vercel.app](killer-one-liners.vercel.app) |
 
 ## Resources:  
 | Project Name | Description | Live |
 |--------------|-------------|------|
 | [👑 Coding King](https://github.com/hernandoabella/coding-king) | Quick resources to help you level up! | [https://coding-king.vercel.app/](https://coding-king.vercel.app/) |
-| [✳️ ASTERISK](https://github.com/hernandoabella/asterisk) | Pattern program collection | [asterisk-lemon.vercel.app](asterisk-lemon.vercel.app) |
-| [🖥️ Programs4Beginners](https://github.com/hernandoabella/programs4beginners) | program collection | [programs4beginners.vercel.app](programs4beginners.vercel.app) |
-| [🔫 Killer-One-Liners](https://github.com/hernandoabella/killer-one-liners) | One Liner Function Collection | [killer-one-liners.vercel.app](killer-one-liners.vercel.app) |
+
+## Games
+|Project Name | Description | Live |
+|--------------|-------------|------|
+| ⚔️ [Coding Clash](https://github.com/hernandoabella/coding-clash) | Battle your friend in a coding challenge | coding-clash.vercel.app |

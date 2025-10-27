@@ -1,4 +1,4 @@
-# Cool Tools 🏗️
+# Cool Tools 😎
 
 ## Tools:
 | Project Name | Description | Live |

@@ -3,6 +3,7 @@
 ## Tools:
 | Project Name | Description | Live |
 |--------------|-------------|------|
+| [🖼️ Image Compressor ](https://github.com/hernandoabella/image-compressor ) | Compress multiple images for a faster load speed! | [https://image-compressor-six-xi.vercel.app/](https://image-compressor-six-xi.vercel.app/) | 
 | [📁 File Renamer ](https://github.com/hernandoabella/file-renamer) | Rename all your files | [file-renamer-ten-chi.vercel.app](file-renamer-ten-chi.vercel.app) | 
 | [📱 Infographic Generator ](https://github.com/hernandoabella/follower-party) | Create awesome infographics for your social media | [infographic-generator-phi.vercel.app](infographic-generator-phi.vercel.app) |
 | [🐱 GitHub Card Generator](https://github.com/hernandoabella/github-card-generator)  | Create a fancy Github card | [https://github-card-generator-flame.vercel.app/](https://github-card-generator-flame.vercel.app/) |

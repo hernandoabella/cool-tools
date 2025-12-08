@@ -14,9 +14,7 @@
 | [🐱 GitHub Card Generator](https://github.com/hernandoabella/github-card-generator)  | Create a fancy Github card | [https://github-card-generator-flame.vercel.app/](https://github-card-generator-flame.vercel.app/) |
 | [🗣️ Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator) | Create stunning cards testimonials for your products. | [testimonial-card-generator.vercel.app](testimonial-card-generator.vercel.app) |
 | [📱 Infographic Generator ](https://github.com/hernandoabella/follower-party) | Create awesome infographics for your social media | [infographic-generator-phi.vercel.app](infographic-generator-phi.vercel.app) |
-| [🖥️ Bash Command Generator](./) | ... | [...](...) |
-| [🖥️ Bash Command Generator](./) | ... | [...](...) |
-
+| [⌨️ Command Generator](./) | ... | [...](...) |
 
 ## Collections:
 | Project Name | Description | Live |

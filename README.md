@@ -15,6 +15,7 @@
 | [🗣️ Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator) | Create stunning cards testimonials for your products. | [testimonial-card-generator.vercel.app](testimonial-card-generator.vercel.app) |
 | [📱 Infographic Generator ](https://github.com/hernandoabella/follower-party) | Create awesome infographics for your social media | [infographic-generator-phi.vercel.app](infographic-generator-phi.vercel.app) |
 | [⌨️ Command Generator](./) | ... | [...](...) |
+| [🛢️ SQL Query Generator(./) | ... | [...](...) |
 
 ## Collections:
 | Project Name | Description | Live |

@@ -13,9 +13,9 @@
 |--------------|-------------|------|
 | [🐱 GitHub Card Generator](https://github.com/hernandoabella/github-card-generator)  | Create a fancy Github card | [https://github-card-generator-flame.vercel.app/](https://github-card-generator-flame.vercel.app/) |
 | [🗣️ Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator) | Create stunning cards testimonials for your products. | [testimonial-card-generator.vercel.app](testimonial-card-generator.vercel.app) |
-| [📱 Infographic Generator ](https://github.com/hernandoabella/follower-party) | Create awesome infographics for your social media | [infographic-generator-phi.vercel.app](infographic-generator-phi.vercel.app) |
-| [⌨️ Command Generator](./) | ... | [...](...) |
-| [🛢️ SQL Query Generator](./) | ... | [...](...) |
+| [📱 Infographic Generator ](https://github.com/hernandoabella/infographic-generator) | Create awesome infographics for your social media | [infographic-generator-phi.vercel.app](infographic-generator-phi.vercel.app) |
+| [⌨️ Command Generator](https://github.com/hernandoabella/command-generator) | A comprehensive collection of tools to generate, learn, and master command-line utilities | [https://command-generator-three.vercel.app/](https://command-generator-three.vercel.app/) |
+| [🛢️ SQL Query Generator](https://github.com/hernandoabella/sql-query-generator) | The best SQL generator | [sql-query-generator-ten.vercel.app](sql-query-generator-ten.vercel.app) |
 
 ## Collections:
 | Project Name | Description | Live |

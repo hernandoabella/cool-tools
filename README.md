@@ -3,10 +3,15 @@
 ## Tools:
 | Project Name | Description | Live |
 |--------------|-------------|------|
-| [🖼️ Image Compressor ](https://github.com/hernandoabella/image-compressor ) | Compress multiple images for a faster load speed! | [https://image-compressor-six-xi.vercel.app/](https://image-compressor-six-xi.vercel.app/) | 
 | [📁 File Renamer ](https://github.com/hernandoabella/file-renamer) | Rename all your files | [file-renamer-ten-chi.vercel.app](file-renamer-ten-chi.vercel.app) | 
 | [🪄 Fancy Code Lines](https://github.com/hernandoabella/fancy-code-lines) | Convert your snippet into a fancy illustration. | [ https://fancy-code-lines.vercel.app/ ](https://fancy-code-lines.vercel.app/) |
 | [🥳 Follower Party ](https://github.com/hernandoabella/follower-party) | Celebrate your social influence! | [https://follower-party.vercel.app/](https://follower-party.vercel.app/) |
+
+### Images:
+| Project Name | Description | Live |
+|--------------|-------------|------|
+| [🖼️ Image Compressor ](https://github.com/hernandoabella/image-compressor ) | Compress multiple images for a faster load speed! | [https://image-compressor-six-xi.vercel.app/](https://image-compressor-six-xi.vercel.app/) | 
+| [🖼️ Multi-dimensional Image Cropper ](https://github.com/hernandoabella/image-compressor ) | Advanced Aspect-Ratio & Alpha Control | [https://img-cropper-two.vercel.app/](https://img-cropper-two.vercel.app/) | 
 
 ### Generators
 | Project Name | Description | Live |

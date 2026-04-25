@@ -22,6 +22,18 @@
 | [⌨️ Command Generator](https://github.com/hernandoabella/command-generator) | A comprehensive collection of tools to generate, learn, and master command-line utilities | [https://command-generator-three.vercel.app/](https://command-generator-three.vercel.app/) |
 | [🛢️ SQL Query Generator](https://github.com/hernandoabella/sql-query-generator) | The best SQL generator | [sql-query-generator-ten.vercel.app](sql-query-generator-ten.vercel.app) |
 
+### Visualizers
+|Project Name | Description | Live |
+|--------------|-------------|------|
+| ⚔️ [SQL Visualizer](https://github.com/hernandoabella/sql-visualizer) | sql visualizer | [...](#) |
+
+## Games
+|Project Name | Description | Live |
+|--------------|-------------|------|
+| ⚔️ [Coding Clash](https://github.com/hernandoabella/coding-clash) | Battle your friend in a coding challenge | [https://coding-clash.vercel.app ](https://coding-clash.vercel.app) |
+
+---
+
 ## Collections:
 | Project Name | Description | Live |
 |--------------|-------------|------|
@@ -35,7 +47,4 @@
 |--------------|-------------|------|
 | [👑 Coding King](https://github.com/hernandoabella/coding-king) | Quick resources to help you level up! | [https://coding-king.vercel.app/](https://coding-king.vercel.app/) |
 
-## Games
-|Project Name | Description | Live |
-|--------------|-------------|------|
-| ⚔️ [Coding Clash](https://github.com/hernandoabella/coding-clash) | Battle your friend in a coding challenge | [https://coding-clash.vercel.app ](https://coding-clash.vercel.app) |
+
